@@ -5,6 +5,8 @@
 #define _SPTAG_SEARCHRESULT_H_
 
 #include "CommonDataStructure.h"
+#include <limits.h>
+#include <float.h>
 
 namespace SPTAG
 {
